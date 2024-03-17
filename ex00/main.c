@@ -6,14 +6,14 @@
 /*   By: jow <jow@student.42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/03/16 17:07:04 by jow               #+#    #+#             */
-/*   Updated: 2024/03/16 17:56:46 by echua            ###   ########.fr       */
+/*   Updated: 2024/03/17 16:21:42 by echua            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 void	rush(int width, int height);
 
 int	main(void)
 {
-	rush(5, 5);
+	rush(5, 1);
 	return (0);
 }
 //Rush is output
